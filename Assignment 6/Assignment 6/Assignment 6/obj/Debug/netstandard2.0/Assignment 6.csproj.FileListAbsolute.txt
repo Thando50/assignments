@@ -1,0 +1,27 @@
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\bin\Debug\netstandard2.0\Assignment 6.deps.json
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\bin\Debug\netstandard2.0\Assignment 6.dll
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\bin\Debug\netstandard2.0\ref\Assignment 6.dll
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\bin\Debug\netstandard2.0\Assignment 6.pdb
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\Assignment 6.AssemblyInfoInputs.cache
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\Assignment 6.AssemblyInfo.cs
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\Assignment 6.csproj.CoreCompileInputs.cache
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\Assignment 6.dll
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\ref\Assignment 6.dll
+C:\Users\thando dele mcoteli\source\repos\Thando50\MPS-_ASSESSMENT6\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\Assignment 6.pdb
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\bin\Debug\netstandard2.0\Assignment 6.deps.json
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\bin\Debug\netstandard2.0\Assignment 6.dll
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\bin\Debug\netstandard2.0\ref\Assignment 6.dll
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\bin\Debug\netstandard2.0\Assignment 6.pdb
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\Assignment 6.csprojAssemblyReference.cache
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\Assignment 6.AssemblyInfoInputs.cache
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\Assignment 6.AssemblyInfo.cs
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\Assignment 6.csproj.CoreCompileInputs.cache
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\Assignment 6.dll
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\ref\Assignment 6.dll
+C:\Users\thando dele mcoteli\source\repos\assignments\Assignment 6\Assignment 6\Assignment 6\obj\Debug\netstandard2.0\Assignment 6.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z87U/N2lWsFyDqc/B+Oplx4ZFgGLXategelWG+nBvK9n/pwDflzJz5hNoAk2wMoOmGDdSQ8sWPd8aQJP5IAOww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thando dele mcoteli\\source\\repos\\assignments\\Assignment 6\\Assignment 6\\Assignment 6.iOS\\Assignment 6.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\thando dele mcoteli\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment_6.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text=" welcome to Thandos Bank" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Entry x:Name="amountDeposit" Keyboard="Numeric" Placeholder="Enter amount"/>
+        <Entry x:Name="reasonDeposit" Placeholder="Enter reason"/>
+        <Button Text="Deposit" Clicked="ButtonToDeposit_Clicked"/>
+        <Label x:Name="l" Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
+        
+
+        <Entry x:Name="amountWithdraw" Keyboard="Numeric" Placeholder="Enter withdrawal amount"/>
+        <Entry x:Name="reasonWithdraw" Placeholder="Enter reason of withdrwawal here"/>
+        <Button Text="Withdraw" Clicked="ButtonToWithdraw_Clicked"/>
+
+        <Button Text="TransactionHistory" Clicked="ButtonForHistory_Clicked"/>
+        <ScrollView>
+            <Label x:Name="TransactionHistory" Text="TransactionHistory"/>
+        </ScrollView>
+
+
+
+        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Learn more at "/>
+                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
+                        
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>
